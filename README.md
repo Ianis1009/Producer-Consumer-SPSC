@@ -1,6 +1,6 @@
 # Producer-Consumer-SPSC
 
-# SPSC - Simple Producer Simple Consumer
+SPSC - Simple Producer Simple Consumer
 
 **Producer-Consumer problem** in C using POSIX threads (`pthreads`).  A producer generates items and places them into a shared bounded buffer, while a consumer retrieves and processes them.
 
